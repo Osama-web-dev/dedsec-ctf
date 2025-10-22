@@ -19,9 +19,10 @@
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python (Flask/Django)
-- **Database**: SQLite/MySQL
-- **Deployment**: Docker-ready or local hosting
+- **Backend**: JavaScript (Node.js / Firebase Functions)
+- **Database**: Firebase Firestore
+- **Authentication**: Firebase Auth
+- **Hosting & Deployment**: Firebase Hosting
 
 ---
 
@@ -38,5 +39,4 @@
 ```bash
 git clone https://github.com/Osama-web-dev/dedsec-ctf.git
 cd dedsec-ctf
-pip install -r requirements.txt
-python app.py
+run index.html
